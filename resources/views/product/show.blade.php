@@ -1,7 +1,7 @@
 @extends('product.layout')
 
 @section('content')
-
+<!-- jhjhjhjj -->
 <div class="container">
     <div class="card">
         <div class="card-body">
